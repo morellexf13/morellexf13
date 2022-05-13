@@ -10,7 +10,7 @@
 
 🧮 I like to work with Vue/React (Frontend) and Python (Backend).
 
-💬 You can contact me faster on Twitter: [@morellexf25](twitter.com/morellexf25) || [LinkedIn](https://www.linkedin.com/in/agumorelle/)
+💬 You can contact me faster on: [Twitter](twitter.com/morellexf25) || [LinkedIn](https://www.linkedin.com/in/agumorelle/)
 
 
 <!--
