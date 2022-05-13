@@ -2,7 +2,7 @@
 
 🇺🇾 I'm a 26 years old Uruguayan Full-Stack Developer.
 
-🔭 I'm currently working at [Apptim](apptim.com), helping build a solution to improve Android & iOS mobile testing.
+🔭 I'm currently working at [Apptim](https://www.apptim.com), helping build a solution to improve Android & iOS mobile testing.
 
 🌱 I'm currently learning 3D development using three.js.
 
@@ -10,7 +10,7 @@
 
 🧮 I like to work with Vue/React (Frontend) and Python (Backend).
 
-💬 You can contact me faster on: [Twitter](twitter.com/morellexf25) || [LinkedIn](https://www.linkedin.com/in/agumorelle/)
+💬 You can contact me faster on: [Twitter](https://www.twitter.com/morellexf25) || [LinkedIn](https://www.linkedin.com/in/agumorelle/)
 
 
 <!--
