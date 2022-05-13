@@ -1,4 +1,4 @@
-### Hi there, I'm Juan!
+### Hi there, I'm Juan! 👋
 
 🇺🇾 I'm a 26 years old Uruguayan Full-Stack Developer.
 
