@@ -2,7 +2,7 @@
 
 I'm a 26 years old Uruguayan Full-Stack Developer.
 
-I have 4+ years of experience in the industry and a total of 7+ years since my Programmer Analyst graduation.
+I have 5+ years of experience in the industry and a total of 7+ years since my Programmer Analyst graduation.
 
 I like to help people by coding.
 
