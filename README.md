@@ -41,14 +41,6 @@ working at [Apptim](https://www.apptim.com), helping build a solution to improve
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=ff9900)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google&logoColor=white&color=4285f4)
 
-## &#x1f4c8; My Stats
-
-  <div style="width:100%">
-<a href="https://github.com/morellexf26">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=morellexf26&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="morellexf26 GitHub Stats" />
-</a>
-</div>
-
 <br/>
 
 ## 💝 Contribution
