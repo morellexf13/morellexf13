@@ -1,20 +1,14 @@
-### Hey, I'm Juan 👋
+<h1 align="center">Hi 👋, I'm Juan</h1>
+<h3 align="center">a 26 years old Full-Stack Developer</h3>
 
-I'm a 26 years old Uruguayan Full-Stack Developer.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E2GACYC)
+<br>
 
 I have 5+ years of experience in the industry and a total of 7+ years since my Programmer Analyst graduation.
 
 I like to help people by coding.
 
-## 🚀 I'm currently
-
-working at [Apptim](https://www.apptim.com), helping build a solution to improve Android & iOS mobile testing.
-
-👨🏼‍🎨 working on side-projects.
-
-📧 You can contact me faster on: [Twitter](https://www.twitter.com/morellexf25) || [LinkedIn](https://www.linkedin.com/in/agumorelle/)
-
-## 🔧 Technologies & Tools
+## 🦉 Knowledge
 
 ![](https://img.shields.io/badge/Platform-macOS-informational?style=flat&logo=macOS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=f65314)
@@ -40,11 +34,3 @@ working at [Apptim](https://www.apptim.com), helping build a solution to improve
 ![](https://img.shields.io/badge/Code-GeneXus-informational?style=flat&logo=genexus&logoColor=white&color=C0A8FE)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=ff9900)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google&logoColor=white&color=4285f4)
-
-<br/>
-
-## 💝 Contribution
-
-<div align="left">
-<a href="https://www.buymeacoffee.com/morellexf26" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</div>
