@@ -1,18 +1,24 @@
-<h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">a 26 years old Full-Stack Developer</h3>
+<h1> Hi there 👋🏼, I'm Juan!</h1>
+Senior UX/UI | Web Design, App Design | Android & iOS Performance
+
+<br/>
+<br/>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E2GACYC)
 <br>
 
-I have 5+ years of experience in the industry and a total of 7+ years since my Programmer Analyst graduation.
+[Upwork Freelance](https://www.upwork.com/freelancers/~01ff86d3b05bbe9b6c)
 
-I like to help people by coding.
+I am a Senior UX/UI Web Designer with strong expertise in creating digital products. Focusing on creating a unique and user-friendly design. I help to make users love your product.
 
-## 🦉 Knowledge
+I am also deeply dedicated to learn & research about mobile performance.
+
+## 🥷🏼 Knowledge
 
 ![](https://img.shields.io/badge/Platform-macOS-informational?style=flat&logo=macOS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=f65314)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffde57)
+![](https://img.shields.io/badge/Code-ASP.NET-informational?style=flat&logo=csharp&logoColor=white&color=803788)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=f89820)
 ![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=a4c639)
 ![](https://img.shields.io/badge/Platform-iOS-informational?style=flat&logo=ios&logoColor=white&color=5fc9f8)
@@ -20,6 +26,7 @@ I like to help people by coding.
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1e)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=42b883)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=00d8ff)
+![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=337BFB)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791) 
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00758f)
