@@ -32,7 +32,7 @@ from datetime import date
 
 class AboutMe():
     def __init__(self):
-        self.username = "juanmorelle"
+        self.username = "morellexf13"
         self.fullname = "Juan Morelle"
         self.pronouns = ("he", "him")
         self.location = "Uruguay"
@@ -93,5 +93,5 @@ Get in Touch 📡
 [![Instagram](https://img.shields.io/badge/-@morellexf13-333333?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/morellexf13)\
 [![Reddit](https://img.shields.io/badge/-%E2%81%A0%20%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0u%2Fmorellexf22%E2%81%A0%E2%81%A0%20%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=reddit&logoColor=white&labelColor=FF4500)](https://www.reddit.com/user/morellexf22)
 [![Twitter](https://img.shields.io/badge/-@morellexf13-333333?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/morellexf13)\
-[![GitHub](https://img.shields.io/badge/-%E2%81%A0%20juanmorelle%20%E2%81%A0-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/juanmorelle)\
+[![GitHub](https://img.shields.io/badge/-%E2%81%A0%20juanmorelle%20%E2%81%A0-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/morellexf13)\
 [![Linktree](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0linktr.ee%2F%E2%81%A0%E2%81%A0%E2%81%A0morellexf13%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%81%A0-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B)](https://linktr.ee/morellexf13)
