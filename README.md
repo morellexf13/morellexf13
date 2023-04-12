@@ -3,16 +3,16 @@
     <i>I'm a <b>Software Engineer</b>
     <br />
     <br />
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuanmorelle%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorellexf13%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     </a>
     <a href="https://github.com/STRRL/serverless-github-badges">
-        <img src="https://badges.strrl.dev/years/juanmorelle?style=flat&labelColor=333333&logoColor=E7E7E7&color=0089FF&label=Years&logo=github" />
+        <img src="https://badges.strrl.dev/years/morellexf13?style=flat&labelColor=333333&logoColor=E7E7E7&color=0089FF&label=Years&logo=github" />
     </a>
-    <a href="https://github.com/juanmorelle?tab=followers">
-        <img src="https://img.shields.io/github/followers/juanmorelle?labelColor=333333&logoColor=E7E7E7&color=8939FF&label=Followers&logo=github" />
+    <a href="https://github.com/morellexf13?tab=followers">
+        <img src="https://img.shields.io/github/followers/morellexf13?labelColor=333333&logoColor=E7E7E7&color=8939FF&label=Followers&logo=github" />
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/stars/juanmorelle?affiliations=OWNER%2CCOLLABORATOR&labelColor=333333&logoColor=E7E7E7&color=EEAA00&label=Stars&logo=github" />
+        <img src="https://img.shields.io/github/stars/morellexf13?affiliations=OWNER%2CCOLLABORATOR&labelColor=333333&logoColor=E7E7E7&color=EEAA00&label=Stars&logo=github" />
     </a>
     <br />
     <a href="#">
