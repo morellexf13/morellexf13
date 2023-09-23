@@ -39,7 +39,7 @@ class AboutMe():
         self.occupation = "Software Engineer"
         self.birthday = date(day=23, month=2, year=1996)
         self.hobbies = ["Coding", "Gaming", "Music"]
-        self.interests = ["Programming", "Performance", "Gaming", "Operative Systems", "Apple"]
+        self.interests = ["Programming", "Performance", "Gaming", "Android", "Apple", "Animals", "Landscapes"]
 
 if __name__ == "__main__":
     me = AboutMe()
