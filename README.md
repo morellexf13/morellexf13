@@ -87,7 +87,7 @@ My Specs 💻
 [![CPU](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0Core_i7_7700_HQ-333333?style=for-the-badge&logo=intel&logoColor=white&labelColor=0071C5)](https://ark.intel.com/content/www/us/en/ark/products/97185/intel-core-i77700hq-processor-6m-cache-up-to-3-80-ghz.html)
 [![GPU](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0%E2%81%A0GTX_1070%E2%81%A0%E2%81%A0%E2%81%A0-333333?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=76B900)](https://www.techpowerup.com/gpu-specs/geforce-gtx-1070-mobile.c2869)
 
-![image](https://github.com/morellexf13/morellexf13/assets/73654994/684d3745-404e-4dce-85cb-adf12fed2ba1)
+![MAC](https://img.shields.io/badge/Apple-MacBook_Air_M1-333333?style=for-the-badge&logo=apple&logoColor=white)
 
 
 
