@@ -41,12 +41,12 @@ class AboutMe():
         self.hobbies = ["Coding", "Gaming", "Music"]
         self.interests = ["Programming", "Performance", "Gaming", "Android", "Apple", "Animals", "Landscapes"]
         self.platforms = ["macOS", "Windows", "Android", "iOS"]
-        self.experience = ["Python", "JavaScript", "ASP.NET", "Java", "NodeJS", "PostgreSQL", "MySQL", "SQLServer", "GeneXus"]
+        self.experience = ["Python", "JavaScript", "NodeJS", "ASP.NET", "Java", "PostgreSQL", "MySQL", "SQLServer", "GeneXus", "Wordpress"]
         self.editor = ["VsCode", "PyCharm"]
         self.tools = ["Xcode", "Android Studio", "Docker", "Photoshop", "Lightroom"]
-        self.frameworks = ["Vue", "React", "Electron", "Ionic", "Appium", "Selenium", "Bootstrap", "TailwindCSS"]
+        self.frameworks = ["Vue", "React", "Electron", "Ionic", "Vite", "NuxtJs", "NextJs", "Webpack", "Bootstrap", "TailwindCSS"]
         self.cloud = ["AWS", "GCP"]
-        self.testing = ["Jest", "Mocha"]
+        self.testing = ["Jest", "Mocha", "Appium", "Selenium", "WebdriverIO"]
         
 
 if __name__ == "__main__":
