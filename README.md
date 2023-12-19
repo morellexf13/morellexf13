@@ -1,8 +1,4 @@
 <h1 align="center">Hey there 👋, I'm Juan!</h1>
-<p align="center">
-    <i>I'm a <b>Software Engineer</b>
-</p>
-
 <br />
 
 ```py
