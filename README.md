@@ -1,5 +1,14 @@
-<h1 align="center">Hey 👋, I'm Juan!</h1>
-<br />
+<img style="width:100%;height:3px;" src="./bar.gif" />
+
+### Hey, I'm Juan 👋
+
+I'm a 27 year old software engineer
+
+## ⚡️ Current
+
+Currently working on building [Apptim](https://apptim.com/)
+
+## 💎 Experience
 
 ```js
 class Juan {
@@ -26,9 +35,7 @@ class Juan {
 const me = new Juan();
 ```
 
-<br />
+## 📫 Contact
 
-
-Links 🌱
----------------
 [![Linktree](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0linktr.ee%2F%E2%81%A0%E2%81%A0%E2%81%A0morellexf13%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%81%A0-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B)](https://linktr.ee/morellexf13)
+
