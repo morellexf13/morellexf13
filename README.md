@@ -37,5 +37,6 @@ const me = new Juan();
 
 ## 📫 Contact
 
-[![Linktree](https://img.shields.io/badge/-%E2%81%A0%E2%81%A0linktr.ee%2F%E2%81%A0%E2%81%A0%E2%81%A0morellexf13%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%81%A0-333333?style=for-the-badge&logo=linktree&logoColor=white&labelColor=29B06B)](https://linktr.ee/morellexf13)
+For a fast response, please DM me on Twitter: [@morellexf13](https://twitter.com/direct_messages/create/morellexf13) 
 
+Want to see more about me? Go to my [Linktree](https://linktr.ee/morellexf13)
