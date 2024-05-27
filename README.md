@@ -10,30 +10,7 @@ Currently working on building [Apptim](https://apptim.com/)
 
 ## 💎 Experience
 
-```js
-class Juan {
-    constructor() {
-        this.username = "morellexf13";
-        this.fullname = "Juan Morelle";
-        this.pronouns = ["he", "him"];
-        this.location = "Uruguay";
-        this.occupation = "Senior Software Engineer | Android & iOS Performance";
-        this.birthday = new Date(1996, 1, 23);
-        this.hobbies = ["Coding", "Gaming", "Music"];
-        this.interests = ["Programming", "Performance", "Gaming", "Android", "Apple", "Animals", "Landscapes"];
-        this.platforms = ["macOS", "Windows", "Android", "iOS"];
-        this.languages = ["Python", "JavaScript", "NodeJS", "ASP.NET", "Java", "PostgreSQL", "MySQL", "SQLServer", "GeneXus", "Wordpress"];
-        this.ide = ["VsCode", "PyCharm"];
-        this.tools = ["Xcode", "Android Studio", "Docker", "Photoshop", "Lightroom"];
-        this.frameworks = ["Vue", "React", "Electron", "Ionic", "Vite", "NuxtJs", "NextJs", "Webpack", "Bootstrap", "TailwindCSS"];
-        this.cloud = ["AWS", "GCP"];
-        this.testing = ["Jest", "Mocha", "Appium", "Selenium", "WebdriverIO"];
-    }
-}
-        
-
-const me = new Juan();
-```
+During my work hours, I love diving into the latest technologies. In my free time, I'm an avid gamer. My go-to stack includes Vue.js for the frontend and Python or Node.js for the backend, though I've dabbled in numerous other frameworks and languages. When it comes to gaming, World of Warcraft is my all-time favorite. I started out as a Horde player, but eventually, I found a soft spot for the Alliance. Whether slinging code or casting spells, I’m always up for a new challenge!
 
 ## 📫 Contact
 
